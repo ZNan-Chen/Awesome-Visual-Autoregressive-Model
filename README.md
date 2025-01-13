@@ -26,15 +26,15 @@ If you find mistakes or overlooked papers, please open issues or pull requests.
 ## Video Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-| An Empirical Study of Autoregressive Pre-training from Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.01722)\|[Code]()
-| AR4D: Autoregressive 4D Generation from Monocular Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.01722)\|[Code]()
+| An Empirical Study of Autoregressive Pre-training from Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.01722)\|Code
+| AR4D: Autoregressive 4D Generation from Monocular Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.01722)\|Code
 | Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization | ICML2024 | [Paper](https://arxiv.org/pdf/2402.03161)\|[Code](https://github.com/jy0205/LaVIT)
 | ART•V: Auto-Regressive Text-to-Video Generation with Diffusion Models | CVPRW2024 | [Paper](https://arxiv.org/pdf/2311.18834)\|[Code](https://github.com/WarranWeng/ART.V)
 | Autoregressive Video Generation without Vector Quantization | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.14169)\|[Code](https://github.com/baaivision/NOVA)
-| MarDini: Masked Auto-Regressive Diffusion for Video Generation at Scale | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.20280)\|[Code]()
-| Loong: Generating Minute-level Long Videos with Autoregressive Language Models  | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.02757)\|[Code]()
-| ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.20502)\|[Code]()
-| DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.04446)\|[Code]()
+| MarDini: Masked Auto-Regressive Diffusion for Video Generation at Scale | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.20280)\|Code
+| Loong: Generating Minute-level Long Videos with Autoregressive Language Models  | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.02757)\|Code
+| ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.20502)\|Code
+| DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.04446)\|Code
 
 ## 3D Generation
 | **Title** | **Venue** |  **Links** |
@@ -49,9 +49,9 @@ If you find mistakes or overlooked papers, please open issues or pull requests.
 ## Multimodal Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-| Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Piergiovanni_Mirasol3B_A_Multimodal_Autoregressive_Model_for_Time-Aligned_and_Contextual_Modalities_CVPR_2024_paper.pdf)\|[Code]()
-| Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf)\|[Code]()
-| VideoPoet: A Large Language Model for Zero-Shot Video Generation | ICML2024 | [Paper](https://sites.research.google/videopoet/)\|[Code]()
+| Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Piergiovanni_Mirasol3B_A_Multimodal_Autoregressive_Model_for_Time-Aligned_and_Contextual_Modalities_CVPR_2024_paper.pdf)\|Code
+| Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf)\|Code
+| VideoPoet: A Large Language Model for Zero-Shot Video Generation | ICML2024 | [Paper](https://sites.research.google/videopoet/)\|Code
 | VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing | NeurIPS2024 | [Paper](https://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf)\|[Code](https://github.com/SkyworkAI/Vitron?tab=readme-ov-file)
 | OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation | NeurIPS2024 | [Paper](https://arxiv.org/pdf/2406.09399)\|[Code](https://github.com/FoundationVision/OmniTokenizer?tab=readme-ov-file)
 | Emu3: Next-Token Prediction is All You Need | Arxiv2024 | [Paper](https://arxiv.org/pdf/2409.18869)\|[Code](https://github.com/baaivision/Emu3)
@@ -60,8 +60,8 @@ If you find mistakes or overlooked papers, please open issues or pull requests.
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | Next Patch Prediction for Autoregressive Visual Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2412.15321)\|[Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
-| Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation | ICLR2024 | [Paper](https://arxiv.org/pdf/2310.05737)\|[Code]()
-| LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.17178)\|[Code]()
+| Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation | ICLR2024 | [Paper](https://arxiv.org/pdf/2310.05737)\|Code
+| LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.17178)\|Code
 | CoDe: Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.17787)\|[Code](https://github.com/czg1225/CoDe)
 | XQ-GAN🚀: An Open-source Image Tokenization Framework for Autoregressive Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.01762)\|[Code](https://github.com/lxa9867/ImageFolder?tab=readme-ov-file)
 | TokenFlow🚀: Unified Image Tokenizer for Multimodal Understanding and Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.03069)\|[Code](https://github.com/ByteFlow-AI/TokenFlow?tab=readme-ov-file)
@@ -74,8 +74,8 @@ If you find mistakes or overlooked papers, please open issues or pull requests.
 ## Others:
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-| DiffusionPoser: Real-time Human Motion Reconstruction From Arbitrary Sparse Sensors Using Autoregressive Diffusion | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Van_Wouwe_DiffusionPoser_Real-time_Human_Motion_Reconstruction_From_Arbitrary_Sparse_Sensors_Using_CVPR_2024_paper.pdf)\|[Code]()
-| CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.06782)\|[Code]()
+| DiffusionPoser: Real-time Human Motion Reconstruction From Arbitrary Sparse Sensors Using Autoregressive Diffusion | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Van_Wouwe_DiffusionPoser_Real-time_Human_Motion_Reconstruction_From_Arbitrary_Sparse_Sensors_Using_CVPR_2024_paper.pdf)\|Code
+| CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.06782)\|Code
 | Varformer: Adapting VAR’s Generative Prior for Image Restoration | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.21063)\|[Code](https://github.com/siywang541/Varformer)
-| Scalable Autoregressive Monocular Depth Estimation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.11361)\|[Code]()
+| Scalable Autoregressive Monocular Depth Estimation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.11361)\|Code
 
