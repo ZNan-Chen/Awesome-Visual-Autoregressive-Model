@@ -1,5 +1,6 @@
 # Awesome-Visual-Autoregressive-Model
-If you find mistakes or overlooked papers, please open issues or pull requests.
+🌟This repository is still being updated, please stay tuned
+👉If you find mistakes or overlooked papers, please open issues or pull requests.
 
 ## Content:
 - [Image Generation](#Image-Generation)
