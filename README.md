@@ -26,6 +26,7 @@ If you find mistakes or overlooked papers, please open issues or pull requests.
 ## Video Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.05763)\|[Code](https://github.com/zju3dv/StarGen)
 | An Empirical Study of Autoregressive Pre-training from Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.01722)\|Code
 | AR4D: Autoregressive 4D Generation from Monocular Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.01722)\|Code
 | Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization | ICML2024 | [Paper](https://arxiv.org/pdf/2402.03161)\|[Code](https://github.com/jy0205/LaVIT)
@@ -54,6 +55,7 @@ If you find mistakes or overlooked papers, please open issues or pull requests.
 | VideoPoet: A Large Language Model for Zero-Shot Video Generation | ICML2024 | [Paper](https://sites.research.google/videopoet/)\|Code
 | VITRON: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing | NeurIPS2024 | [Paper](https://haofei.vip/downloads/papers/Skywork_Vitron_2024.pdf)\|[Code](https://github.com/SkyworkAI/Vitron?tab=readme-ov-file)
 | OmniTokenizer: A Joint Image-Video Tokenizer for Visual Generation | NeurIPS2024 | [Paper](https://arxiv.org/pdf/2406.09399)\|[Code](https://github.com/FoundationVision/OmniTokenizer?tab=readme-ov-file)
+| DrivingGPT: Unifying Driving World Modeling and Planning with Multi-modal Autoregressive Transformers | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.18607)\|Code
 | Emu3: Next-Token Prediction is All You Need | Arxiv2024 | [Paper](https://arxiv.org/pdf/2409.18869)\|[Code](https://github.com/baaivision/Emu3)
 
 ## Understanding or Optimization
@@ -61,7 +63,8 @@ If you find mistakes or overlooked papers, please open issues or pull requests.
 |:--------|:--------:|:--------:|
 | Next Patch Prediction for Autoregressive Visual Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2412.15321)\|[Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
 | Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation | ICLR2024 | [Paper](https://arxiv.org/pdf/2310.05737)\|Code
-| LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.17178)\|Code
+| E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.17178)\|Code
+| LiteVAR: Compressing Visual Autoregressive Modelling with Efficient Attention and Quantization | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.14170)\|Code
 | CoDe: Collaborative Decoding Makes Visual Auto-Regressive Modeling Efficient | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.17787)\|[Code](https://github.com/czg1225/CoDe)
 | XQ-GAN🚀: An Open-source Image Tokenization Framework for Autoregressive Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.01762)\|[Code](https://github.com/lxa9867/ImageFolder?tab=readme-ov-file)
 | TokenFlow🚀: Unified Image Tokenizer for Multimodal Understanding and Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.03069)\|[Code](https://github.com/ByteFlow-AI/TokenFlow?tab=readme-ov-file)
@@ -74,6 +77,8 @@ If you find mistakes or overlooked papers, please open issues or pull requests.
 ## Others:
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| DeTrack: In-model Latent Denoising Learning for Visual Object Tracking | Arxiv2025 | [Paper](https://arxiv.org/html/2501.02467v1)\|Code
+| Less is More: Token Context-aware Learning for Object Tracking | AAAI2025 | [Paper](https://arxiv.org/pdf/2501.00758)\|[Code](https://github.com/XuChenLong/LMTrack)
 | DiffusionPoser: Real-time Human Motion Reconstruction From Arbitrary Sparse Sensors Using Autoregressive Diffusion | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Van_Wouwe_DiffusionPoser_Real-time_Human_Motion_Reconstruction_From_Arbitrary_Sparse_Sensors_Using_CVPR_2024_paper.pdf)\|Code
 | CARP: Visuomotor Policy Learning via Coarse-to-Fine Autoregressive Prediction | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.06782)\|Code
 | Varformer: Adapting VAR’s Generative Prior for Image Restoration | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.21063)\|[Code](https://github.com/siywang541/Varformer)
