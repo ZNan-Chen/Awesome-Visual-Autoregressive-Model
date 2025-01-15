@@ -18,6 +18,7 @@
 | EditAR: Unified Conditional Generation with Autoregressive Models | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.04699)\|[Code](https://github.com/JitengMu/EditAR)
 | Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction | NeurIPS2024 | [Paper](https://arxiv.org/pdf/2404.02905)\|[Code](https://github.com/FoundationVision/VAR)
 | Infinity∞: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.04431)\|[Code](https://github.com/FoundationVision/Infinity)
+| Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2406.06525)\|[Code](https://github.com/FoundationVision/LlamaGen)
 | STAR: Scale-wise Text-to-image generation via Auto-Regressive representations | Arxiv2024 | [Paper](https://github.com/krennic999/STAR)\|[Code](https://github.com/krennic999/STAR)
 | VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling | Arxiv2024 | [Paper](https://arxiv.org/pdf/2408.01181)\|[Code](https://github.com/daixiangzi/VAR-CLIP)
 | ControlVAR: Exploring Controllable Visual Autoregressive Modeling | Arixv2024 | [Paper](https://arxiv.org/pdf/2406.09750)\|[Code](https://github.com/lxa9867/ControlVAR)
