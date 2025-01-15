@@ -28,6 +28,7 @@
 ## Video Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| GameFactory: Creating New Games with Generative Interactive Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.08325)\|[Code](https://github.com/KwaiVGI/GameFactory)
 | StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.05763)\|[Code](https://github.com/zju3dv/StarGen)
 | An Empirical Study of Autoregressive Pre-training from Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.01722)\|Code
 | AR4D: Autoregressive 4D Generation from Monocular Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.01722)\|Code
