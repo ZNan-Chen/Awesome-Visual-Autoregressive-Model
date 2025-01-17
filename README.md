@@ -81,6 +81,7 @@
 ## Others:
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| FAST: Efficient Action Tokenization for Vision-Language-Action Models | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.09747)\|Code
 | DeTrack: In-model Latent Denoising Learning for Visual Object Tracking | Arxiv2025 | [Paper](https://arxiv.org/html/2501.02467v1)\|Code
 | Less is More: Token Context-aware Learning for Object Tracking | AAAI2025 | [Paper](https://arxiv.org/pdf/2501.00758)\|[Code](https://github.com/XuChenLong/LMTrack)
 | DiffusionPoser: Real-time Human Motion Reconstruction From Arbitrary Sparse Sensors Using Autoregressive Diffusion | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Van_Wouwe_DiffusionPoser_Real-time_Human_Motion_Reconstruction_From_Arbitrary_Sparse_Sensors_Using_CVPR_2024_paper.pdf)\|Code
