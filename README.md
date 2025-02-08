@@ -75,7 +75,7 @@
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | ImageFolder: Autoregressive Image Generation with Folded Tokens | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.01756)\|[Code](https://github.com/lxa9867/ImageFolder)
-| LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding | ICLR2025 | [Paper](https://arxiv.org/pdf/2412.15321)\|[Code](https://arxiv.org/pdf/2410.03355)
+| LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.03355)\|Code
 | Next Patch Prediction for Autoregressive Visual Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2412.15321)\|[Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
 | Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation | ICLR2024 | [Paper](https://arxiv.org/pdf/2310.05737)\|Code
 | E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.17178)\|Code
