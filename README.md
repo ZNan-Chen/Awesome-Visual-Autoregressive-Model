@@ -16,6 +16,7 @@
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | ControlAR: Controllable Image Generation with Autoregressive Models | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.02705)\|[Code](https://github.com/hustvl/ControlAR)
+| A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.01912)\|[Code](https://github.com/chenllliang/DnD-Transformer)
 | Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.13926)\|[Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 | EditAR: Unified Conditional Generation with Autoregressive Models | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.04699)\|[Code](https://github.com/JitengMu/EditAR)
 | Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction | NeurIPS2024 | [Paper](https://arxiv.org/pdf/2404.02905)\|[Code](https://github.com/FoundationVision/VAR)
@@ -31,6 +32,7 @@
 ## Video Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.20502)\|Code
 | Autoregressive Video Generation without Vector Quantization | ICLR2025 | [Paper](https://arxiv.org/pdf/2412.14169)\|[Code](https://github.com/baaivision/NOVA)
 | Autoregressive Transformers are Zero-Shot Video Imitators | ICLR2025 | [Paper](https://openreview.net/pdf/d7f4ab52978963ec7be546290f7aa260cb6a2481.pdf)\|[Code]()
 | LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.21264)\|[Code](https://github.com/hywang66/LARP/)
@@ -43,7 +45,6 @@
 | ART•V: Auto-Regressive Text-to-Video Generation with Diffusion Models | CVPRW2024 | [Paper](https://arxiv.org/pdf/2311.18834)\|[Code](https://github.com/WarranWeng/ART.V)
 | MarDini: Masked Auto-Regressive Diffusion for Video Generation at Scale | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.20280)\|Code
 | Loong: Generating Minute-level Long Videos with Autoregressive Language Models  | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.02757)\|Code
-| ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.20502)\|Code
 | DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.04446)\|Code
 
 ## 3D Generation
@@ -60,6 +61,7 @@
 ## Multimodal Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| JetFormer: An autoregressive generative model of raw images and text | ICLR2025 | [Paper](https://arxiv.org/pdf/2411.19722)\|Code
 | VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.12327)\|[Code](https://github.com/VARGPT-family/VARGPT)
 | Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Piergiovanni_Mirasol3B_A_Multimodal_Autoregressive_Model_for_Time-Aligned_and_Contextual_Modalities_CVPR_2024_paper.pdf)\|Code
 | Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf)\|Code
@@ -72,6 +74,7 @@
 ## Understanding or Optimization
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| ImageFolder: Autoregressive Image Generation with Folded Tokens | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.01756)\|[Code](https://github.com/lxa9867/ImageFolder)
 | LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding | ICLR2025 | [Paper](https://arxiv.org/pdf/2412.15321)\|[Code](https://arxiv.org/pdf/2410.03355)
 | Next Patch Prediction for Autoregressive Visual Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2412.15321)\|[Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
 | Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation | ICLR2024 | [Paper](https://arxiv.org/pdf/2310.05737)\|Code
