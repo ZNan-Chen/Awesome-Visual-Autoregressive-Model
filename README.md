@@ -15,6 +15,7 @@
 ## Image Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.13926)\|[Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 | EditAR: Unified Conditional Generation with Autoregressive Models | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.04699)\|[Code](https://github.com/JitengMu/EditAR)
 | Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction | NeurIPS2024 | [Paper](https://arxiv.org/pdf/2404.02905)\|[Code](https://github.com/FoundationVision/VAR)
 | Infinity∞: Scaling Bitwise AutoRegressive Modeling for High-Resolution Image Synthesis | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.04431)\|[Code](https://github.com/FoundationVision/Infinity)
@@ -29,6 +30,7 @@
 ## Video Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| Taming Teacher Forcing for Masked Autoregressive Video Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.12389)\|Code
 | GameFactory: Creating New Games with Generative Interactive Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.08325)\|[Code](https://github.com/KwaiVGI/GameFactory)
 | StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.05763)\|[Code](https://github.com/zju3dv/StarGen)
 | An Empirical Study of Autoregressive Pre-training from Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.01722)\|Code
@@ -54,6 +56,7 @@
 ## Multimodal Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.12327)\|[Code](https://github.com/VARGPT-family/VARGPT)
 | Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Piergiovanni_Mirasol3B_A_Multimodal_Autoregressive_Model_for_Time-Aligned_and_Contextual_Modalities_CVPR_2024_paper.pdf)\|Code
 | Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf)\|Code
 | VideoPoet: A Large Language Model for Zero-Shot Video Generation | ICML2024 | [Paper](https://sites.research.google/videopoet/)\|Code
@@ -82,6 +85,7 @@
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
 | Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression | Arxiv2025 | [Paper](https://arxiv.org/pdf/2502.04296)\|[Code](https://github.com/liruiw/HMA)
+| Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression | Arxiv2025 | [Paper](https://arxiv.org/pdf/2502.02216)\|[Code](https://github.com/qyp2000/VARSR)
 | FAST: Efficient Action Tokenization for Vision-Language-Action Models | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.09747)\|Code
 | DeTrack: In-model Latent Denoising Learning for Visual Object Tracking | Arxiv2025 | [Paper](https://arxiv.org/html/2501.02467v1)\|Code
 | Less is More: Token Context-aware Learning for Object Tracking | AAAI2025 | [Paper](https://arxiv.org/pdf/2501.00758)\|[Code](https://github.com/XuChenLong/LMTrack)
