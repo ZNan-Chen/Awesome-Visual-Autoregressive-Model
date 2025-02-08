@@ -81,6 +81,7 @@
 ## Others:
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| Learning Real-World Action-Video Dynamics with Heterogeneous Masked Autoregression | Arxiv2025 | [Paper](https://arxiv.org/pdf/2502.04296)\|[Code](https://github.com/liruiw/HMA)
 | FAST: Efficient Action Tokenization for Vision-Language-Action Models | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.09747)\|Code
 | DeTrack: In-model Latent Denoising Learning for Visual Object Tracking | Arxiv2025 | [Paper](https://arxiv.org/html/2501.02467v1)\|Code
 | Less is More: Token Context-aware Learning for Object Tracking | AAAI2025 | [Paper](https://arxiv.org/pdf/2501.00758)\|[Code](https://github.com/XuChenLong/LMTrack)
