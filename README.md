@@ -15,6 +15,7 @@
 ## Image Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| ControlAR: Controllable Image Generation with Autoregressive Models | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.02705)\|[Code](https://github.com/hustvl/ControlAR)
 | Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.13926)\|[Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 | EditAR: Unified Conditional Generation with Autoregressive Models | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.04699)\|[Code](https://github.com/JitengMu/EditAR)
 | Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction | NeurIPS2024 | [Paper](https://arxiv.org/pdf/2404.02905)\|[Code](https://github.com/FoundationVision/VAR)
@@ -30,6 +31,9 @@
 ## Video Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| Autoregressive Video Generation without Vector Quantization | ICLR2025 | [Paper](https://arxiv.org/pdf/2412.14169)\|[Code](https://github.com/baaivision/NOVA)
+| Autoregressive Transformers are Zero-Shot Video Imitators | ICLR2025 | [Paper](https://openreview.net/pdf/d7f4ab52978963ec7be546290f7aa260cb6a2481.pdf)\|[Code]()
+| LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.21264)\|[Code](https://github.com/hywang66/LARP/)
 | Taming Teacher Forcing for Masked Autoregressive Video Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.12389)\|Code
 | GameFactory: Creating New Games with Generative Interactive Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.08325)\|[Code](https://github.com/KwaiVGI/GameFactory)
 | StarGen: A Spatiotemporal Autoregression Framework with Video Diffusion Model for Scalable and Controllable Scene Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.05763)\|[Code](https://github.com/zju3dv/StarGen)
@@ -37,7 +41,6 @@
 | AR4D: Autoregressive 4D Generation from Monocular Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.01722)\|Code
 | Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization | ICML2024 | [Paper](https://arxiv.org/pdf/2402.03161)\|[Code](https://github.com/jy0205/LaVIT)
 | ART•V: Auto-Regressive Text-to-Video Generation with Diffusion Models | CVPRW2024 | [Paper](https://arxiv.org/pdf/2311.18834)\|[Code](https://github.com/WarranWeng/ART.V)
-| Autoregressive Video Generation without Vector Quantization | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.14169)\|[Code](https://github.com/baaivision/NOVA)
 | MarDini: Masked Auto-Regressive Diffusion for Video Generation at Scale | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.20280)\|Code
 | Loong: Generating Minute-level Long Videos with Autoregressive Language Models  | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.02757)\|Code
 | ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.20502)\|Code
@@ -46,6 +49,7 @@
 ## 3D Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.05260)\|Code
 | General Point Model Pretraining with Autoencoding and Autoregressive | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_General_Point_Model_Pretraining_with_Autoencoding_and_Autoregressive_CVPR_2024_paper.pdf)\|[Code](https://github.com/gentlefress/GPM)
 | Bidirectional Autoregressive Diffusion Model for Dance Generation | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Bidirectional_Autoregessive_Diffusion_Model_for_Dance_Generation_CVPR_2024_paper.pdf)\|[Code](https://github.com/czzhang179/BADM)
 | SceneScript: Reconstructing Scenes With An Autoregressive Structured Language Model | ECCV2024 | [Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/07833.pdf)\|[Code](https://github.com/facebookresearch/scenescript)
@@ -68,6 +72,7 @@
 ## Understanding or Optimization
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding | ICLR2025 | [Paper](https://arxiv.org/pdf/2412.15321)\|[Code](https://arxiv.org/pdf/2410.03355)
 | Next Patch Prediction for Autoregressive Visual Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2412.15321)\|[Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
 | Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation | ICLR2024 | [Paper](https://arxiv.org/pdf/2310.05737)\|Code
 | E-CAR: Efficient Continuous Autoregressive Image Generation via Multistage Modeling | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.17178)\|Code
