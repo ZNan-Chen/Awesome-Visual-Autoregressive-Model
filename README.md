@@ -34,7 +34,7 @@
 |:--------|:--------:|:--------:|
 | ARLON: Boosting Diffusion Transformers with Autoregressive Models for Long Video Generation | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.20502)\|Code
 | Autoregressive Video Generation without Vector Quantization | ICLR2025 | [Paper](https://arxiv.org/pdf/2412.14169)\|[Code](https://github.com/baaivision/NOVA)
-| Autoregressive Transformers are Zero-Shot Video Imitators | ICLR2025 | [Paper](https://openreview.net/pdf/d7f4ab52978963ec7be546290f7aa260cb6a2481.pdf)\|[Code]()
+| Autoregressive Transformers are Zero-Shot Video Imitators | ICLR2025 | [Paper](https://openreview.net/pdf/d7f4ab52978963ec7be546290f7aa260cb6a2481.pdf)\|Code
 | LARP: Tokenizing Videos with a Learned Autoregressive Generative Prior | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.21264)\|[Code](https://github.com/hywang66/LARP/)
 | Taming Teacher Forcing for Masked Autoregressive Video Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.12389)\|Code
 | GameFactory: Creating New Games with Generative Interactive Videos | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.08325)\|[Code](https://github.com/KwaiVGI/GameFactory)
