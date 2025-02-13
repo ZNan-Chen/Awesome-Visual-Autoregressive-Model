@@ -15,7 +15,7 @@
 ## Image Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-| Autoregressive Pretraining with Mamba in Vision | ICLR2025 | [Paper]([https://arxiv.org/pdf/2410.13863](https://arxiv.org/pdf/2406.07537))\|Code
+| Autoregressive Pretraining with Mamba in Vision | ICLR2025 | [Paper](https://arxiv.org/pdf/2406.07537)\|Code
 | Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.13863)\|Code
 | ControlAR: Controllable Image Generation with Autoregressive Models | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.02705)\|[Code](https://github.com/hustvl/ControlAR)
 | ImageFolder: Autoregressive Image Generation with Folded Tokens | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.01756)\|[Code](https://github.com/lxa9867/ImageFolder)
