@@ -15,7 +15,10 @@
 ## Image Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| Autoregressive Pretraining with Mamba in Vision | ICLR2025 | [Paper]([https://arxiv.org/pdf/2410.13863](https://arxiv.org/pdf/2406.07537))\|Code
+| Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.13863)\|Code
 | ControlAR: Controllable Image Generation with Autoregressive Models | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.02705)\|[Code](https://github.com/hustvl/ControlAR)
+| ImageFolder: Autoregressive Image Generation with Folded Tokens | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.01756)\|[Code](https://github.com/lxa9867/ImageFolder)
 | A Spark of Vision-Language Intelligence: 2-Dimensional Autoregressive Transformer for Efficient Finegrained Image Generation | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.01912)\|[Code](https://github.com/chenllliang/DnD-Transformer)
 | Can We Generate Images with CoT? Let's Verify and Reinforce Image Generation Step by Step | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.13926)\|[Code](https://github.com/ZiyuGuo99/Image-Generation-CoT)
 | EditAR: Unified Conditional Generation with Autoregressive Models | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.04699)\|[Code](https://github.com/JitengMu/EditAR)
@@ -24,8 +27,6 @@
 | Autoregressive Model Beats Diffusion: Llama for Scalable Image Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2406.06525)\|[Code](https://github.com/FoundationVision/LlamaGen)
 | STAR: Scale-wise Text-to-image generation via Auto-Regressive representations | Arxiv2024 | [Paper](https://github.com/krennic999/STAR)\|[Code](https://github.com/krennic999/STAR)
 | VAR-CLIP: Text-to-Image Generator with Visual Auto-Regressive Modeling | Arxiv2024 | [Paper](https://arxiv.org/pdf/2408.01181)\|[Code](https://github.com/daixiangzi/VAR-CLIP)
-| ControlVAR: Exploring Controllable Visual Autoregressive Modeling | Arixv2024 | [Paper](https://arxiv.org/pdf/2406.09750)\|[Code](https://github.com/lxa9867/ControlVAR)
-| ImageFolder🚀: Autoregressive Image Generation with Folded Tokens | Arxiv2024 | [Paper](https://arxiv.org/pdf/2412.01762)\|[Code](https://github.com/lxa9867/ImageFolder)
 | HART: Efficient Visual Generation with Hybrid Autoregressive Transformer | Arxiv2024 | [Paper](https://arxiv.org/pdf/2410.10812)\|[Code](https://github.com/mit-han-lab/hart?tab=readme-ov-file)
 | M-VAR: Decoupled Scale-wise Autoregressive Modeling for High-Quality Image Generation | Arxiv2024 | [Paper](https://arxiv.org/pdf/2411.10433)\|[Code](https://github.com/OliverRensu/MVAR?tab=readme-ov-file)
 
@@ -50,6 +51,7 @@
 ## 3D Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers | ICLR2025 | [Paper](https://arxiv.org/pdf/2406.10163)\|[Code](https://github.com/buaacyw/MeshAnything)
 | DART: A Diffusion-Based Autoregressive Motion Model for Real-Time Text-Driven Motion Control | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.05260)\|Code
 | General Point Model Pretraining with Autoencoding and Autoregressive | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Li_General_Point_Model_Pretraining_with_Autoencoding_and_Autoregressive_CVPR_2024_paper.pdf)\|[Code](https://github.com/gentlefress/GPM)
 | Bidirectional Autoregressive Diffusion Model for Dance Generation | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Bidirectional_Autoregessive_Diffusion_Model_for_Dance_Generation_CVPR_2024_paper.pdf)\|[Code](https://github.com/czzhang179/BADM)
@@ -75,7 +77,6 @@
 ## Understanding or Optimization
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-| ImageFolder: Autoregressive Image Generation with Folded Tokens | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.01756)\|[Code](https://github.com/lxa9867/ImageFolder)
 | LANTERN: Accelerating Visual Autoregressive Models with Relaxed Speculative Decoding | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.03355)\|Code
 | Next Patch Prediction for Autoregressive Visual Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2412.15321)\|[Code](https://github.com/PKU-YuanGroup/Next-Patch-Prediction)
 | Language Model Beats Diffusion -- Tokenizer is Key to Visual Generation | ICLR2024 | [Paper](https://arxiv.org/pdf/2310.05737)\|Code
