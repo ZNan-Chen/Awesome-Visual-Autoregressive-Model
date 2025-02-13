@@ -61,8 +61,10 @@
 ## Multimodal Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+
 | JetFormer: An autoregressive generative model of raw images and text | ICLR2025 | [Paper](https://arxiv.org/pdf/2411.19722)\|Code
-| VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.12327)\|[Code](https://github.com/VARGPT-family/VARGPT)
+| VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation | ICLR2025 | [Paper](https://arxiv.org/pdf/2409.04429)\|[Code](https://github.com/VARGPT-family/VARGPT)
+| VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.12327)\|[Code](https://github.com/mit-han-lab/vila-u)
 | Mirasol3B: A Multimodal Autoregressive model for time-aligned and contextual modalities | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Piergiovanni_Mirasol3B_A_Multimodal_Autoregressive_Model_for_Time-Aligned_and_Contextual_Modalities_CVPR_2024_paper.pdf)\|Code
 | Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action | CVPR2024 | [Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf)\|Code
 | VideoPoet: A Large Language Model for Zero-Shot Video Generation | ICML2024 | [Paper](https://sites.research.google/videopoet/)\|Code
