@@ -61,7 +61,6 @@
 ## Multimodal Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-
 | JetFormer: An autoregressive generative model of raw images and text | ICLR2025 | [Paper](https://arxiv.org/pdf/2411.19722)\|Code
 | VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation | ICLR2025 | [Paper](https://arxiv.org/pdf/2409.04429)\|[Code](https://github.com/VARGPT-family/VARGPT)
 | VARGPT: Unified Understanding and Generation in a Visual Autoregressive Multimodal Large Language Model | Arxiv2025 | [Paper](https://arxiv.org/pdf/2501.12327)\|[Code](https://github.com/mit-han-lab/vila-u)
