@@ -15,6 +15,8 @@
 ## Image Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
+| Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2502.20388v1)\|[Code](https://github.com/OliverRensu/xAR)
+| Autoregressive Image Generation Guided by Chains of Thought | Arxiv2025 | [Paper](https://arxiv.org/pdf/2502.16965)\|Code
 | Autoregressive Pretraining with Mamba in Vision | ICLR2025 | [Paper](https://arxiv.org/pdf/2406.07537)\|Code
 | Scaling Autoregressive Text-to-image Generative Models with Continuous Tokens | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.13863)\|Code
 | ControlAR: Controllable Image Generation with Autoregressive Models | ICLR2025 | [Paper](https://arxiv.org/pdf/2410.02705)\|[Code](https://github.com/hustvl/ControlAR)
