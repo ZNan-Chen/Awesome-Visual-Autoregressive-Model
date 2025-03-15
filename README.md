@@ -15,7 +15,9 @@
 ## Image Generation
 | **Title** | **Venue** |  **Links** |
 |:--------|:--------:|:--------:|
-|MINT: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation| Arxiv2025 | [Paper](https://arxiv.org/pdf/2503.01298)\|Code
+| Autoregressive Image Generation with Randomized Parallel Decoding | Arxiv2025| [Paper](https://arxiv.org/pdf/2503.10568)\|[Code](https://github.com/hp-l33/ARPG)
+| Frequency Autoregressive Image Generation with Continuous Tokens | Arxiv2025 | [Paper](https://arxiv.org/pdf/2503.05305)\|[Code](https://github.com/yuhuUSTC/FAR)
+| MINT: Multi-modal Chain of Thought in Unified Generative Models for Enhanced Image Generation| Arxiv2025 | [Paper](https://arxiv.org/pdf/2503.01298)\|Code
 | Beyond Next-Token: Next-X Prediction for Autoregressive Visual Generation | Arxiv2025 | [Paper](https://arxiv.org/pdf/2502.20388v1)\|[Code](https://github.com/OliverRensu/xAR)
 | Autoregressive Image Generation Guided by Chains of Thought | Arxiv2025 | [Paper](https://arxiv.org/pdf/2502.16965)\|Code
 | Autoregressive Pretraining with Mamba in Vision | ICLR2025 | [Paper](https://arxiv.org/pdf/2406.07537)\|Code
